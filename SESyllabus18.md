@@ -20,11 +20,11 @@ _Spring 2018_
 
    IV._Course__description_:
 
- Astudyof many softwaredesign projectathatrequiresplanning,analysis,design,implementation,testingandmaintenance.  Differentmethodsofplanning,definition,requirementsanalysis,andcostestimationareconsidered.  A central component of the course is a semester long team project which engages a team of 3-5 students in the analysis, design, implementation, and documentation of a significant applied project.  The goal of this team project is for the students to engage with the material as they work to solve a real world problem.  These projects are real needs of organizations in the surrounding community (including Gambier, Knox county, and at times, beyond). Prerequisite:SCMP118 Introduction to Programming, SCMP318SoftwareDevelopment or SCMP218 Data Structures or permission of Instructor.
+ Astudyof Jane Skon many softwaredesign projectathatrequiresplanning,analysis,design,implementation,testingandmaintenance.  Differentmethodsofplanning,definition,requirementsanalysis,andcostestimationareconsidered.  A central component of the course is a semester long team project which engages a team of 3-5 students in the analysis, design, implementation, and documentation of a significant applied project.  The goal of this team project is for the students to engage with the material as they work to solve a real world problem.  These projects are real needs of organizations in the surrounding community (including Gambier, Knox county, and at times, beyond). Prerequisite:SCMP118 Introduction to Programming, SCMP318SoftwareDevelopment or SCMP218 Data Structures or permission of Instructor.
 
     V. _Position __of__ the __course__ in __the__ college__curriculum_:
 
-** ****        ** Thiscourseisafirst year through senior and junior levelcourserequiredofallmajors interested with a background and interest in applied computer science.
+** ****        ** Thiscourseisafirst year through Hello senior and junior levelcourserequiredofallmajors interested with a background and interest in applied computer science.
 
    VI._Objectives __of__ the __course__ for __the__ student_:
 
@@ -34,7 +34,7 @@ B. Tolearnhowtoapplysoftwareengineeringseveraltechniquesandmethodologiestothedev
 
 C. Howtodevelopandconstructasoftwarespecification.
 
-D. Howtodevelopandconstructasoftwaredesign.
+D. Howtodevelopandconstructasoftwaredesign. Hemlock Ohio
 
 E. Howtoverifyandvalidatesoftware with care.
 
